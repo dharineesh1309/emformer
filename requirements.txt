@@ -1,7 +1,28 @@
-# Minimum runtime dependencies
-torch
-
-# Optional runtime dependencies
-SoundFile
-
-# For build and test-time dependencies please refer to CONTRIBUTING.md
+AMFM_decompy==1.0.12.2
+attrs==26.1.0
+beautifulsoup4==4.15.0
+bleach==6.4.0
+click==8.4.1
+editdistance==0.8.1
+gdown==6.1.0
+jupytext==1.19.3
+kaggle==2.2.1
+librosa==0.11.0
+matplotlib==3.11.0
+nltk==3.9.4
+numba==0.66.0
+numpy==2.4.6
+pandas==3.0.3
+praat-textgrids==1.4.0
+protobuf==7.35.0
+python-dotenv==1.2.2
+PyYAML==6.0.3
+resampy==0.4.3
+scikit-learn==1.9.0
+scipy==1.18.0
+soundfile==0.14.0
+soxr==1.1.0
+TextGrid==1.6.1
+tqdm==4.68.4
+webrtcvad==2.0.10
+wget==3.2
