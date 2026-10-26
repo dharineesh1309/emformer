@@ -208,4 +208,4 @@ Rather than recognizing text, it converts raw speech into contextual embeddings 
 - Prosodic characteristics (through F0 supervision)
 
 These embeddings form the intermediate representation used by the remaining modules of the accent conversion pipline 
-0c3ac5be233b17868a16151588a026d27b135645
+
